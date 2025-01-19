@@ -29,9 +29,8 @@ Para que cuando entre el usuario a la pagina aparezca el clima de su localidad
 ![captura](https://github.com/juanveprox/21-dia-reto/blob/bac14159f8a2be0b0b13c790e5535e5777051f51/capturas/Screenshot_3.png)
 ---
 ## Funcionalidades
-Esta pagina nos muestra la temperatura,el porcentaje dehumedad, la velocidad del viento y el estado el clima con iconos
-
-![captura]()
+Esta pagina nos muestra la temperatura,el porcentaje dehumedad, la velocidad del viento y el estado el clima con iconos:
+![captura](https://github.com/juanveprox/21-dia-reto/blob/9c639105afd502ca7c2a14a5c26c86d78737cf1e/capturas/Screenshot_6.png)
 
 Permite buscar cualquiera ubicacion
 
