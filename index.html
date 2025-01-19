@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resumen del clima</title>
+    <link rel="stylesheet" href="css/style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100..900&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" href="img/logo__pagina.png">
+</head>
+
+<body>
+    <main>
+        <div class="cerrar2"></div>
+        <div class="contenedor">
+            <div class="barra-busqueda">
+                <form action="" class="barra-busqueda__formulario">
+                    <label for="busqueda" class="formulario__label">
+                        <img src="img/logo_ubicacion.svg" alt="logo de ubicacion" class="label__img">
+                    </label>
+                    <input id="busqueda" type="text" class="formulario__busqueda" placeholder="Ingrese su ubicación" autocomplete="off">
+                    <ul class="formulario__resultados">
+                    </ul>
+                </form>
+                <div class="cerrar1"></div>
+                <button class="barra-busqueda__boton">
+                    <img class="boton__img" src="img/logo_busqueda.svg" alt="logo de lupa">
+                </button>
+            </div>
+            <h1 class="contenedor__ubicacion">Clima de <span class="ubicacion__lugar"></span></h1>
+            <h2 class="contenedor__temperatura"></h2>
+            <div class="contenedor__img">
+                <img src="iconos/01d.svg" alt="imagen del clima" class="imgClima">
+            </div>
+            <div class="contenedor__info">
+                <p class="info__contenedor">Humedad
+                    <span class="humedad__valor"></span>
+                    <img class="humedad__logo" src="img/logo__humedad.svg" alt="logo de humedad">
+                </p>
+                <p class="info__contenedor">Viento
+                    <span class="viento__valor"></span>
+                    <img class="viento__logo" src="img/logo__aire.svg" alt="logo de aire">
+                </p>
+            </div>
+        </div>
+    </main>
+</body>
+<script src="js/index.js"></script>
+
+</html>

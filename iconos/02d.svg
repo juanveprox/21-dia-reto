@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg data-name="Layer 1" id="Layer_1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>.cls-1{fill:#efcc00;}.cls-2{fill:none;stroke:#efcc00;stroke-linecap:round;stroke-miterlimit:10;stroke-width:3px;}.cls-3{fill:url(#linear-gradient);}.cls-4{fill:url(#linear-gradient-2);}</style>
+    <linearGradient gradientTransform="matrix(-0.218569, 0, 0, 0.218569, 66.476311, 57.196197)" gradientUnits="userSpaceOnUse" id="linear-gradient" x1="46.72" x2="25.63" y1="58.39" y2="31.08">
+      <stop offset="0" stop-color="#f2f2f2"/>
+      <stop offset="1" stop-color="#cfcfcf"/>
+    </linearGradient>
+    <linearGradient gradientTransform="matrix(0, -0.218569, -0.218569, 0, 59.692415, 46.661186)" gradientUnits="userSpaceOnUse" id="linear-gradient-2" x1="12.25" x2="23.86" y1="56.93" y2="74.58">
+      <stop offset="0.02" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <title/>
+  <circle class="cls-1" cx="39.8" cy="28" r="12.59"/>
+  <line class="cls-2" x1="39.8" x2="39.8" y1="8" y2="12.44"/>
+  <line class="cls-2" x1="39.8" x2="39.8" y1="43.56" y2="48"/>
+  <line class="cls-2" x1="19.8" x2="24.25" y1="28" y2="28"/>
+  <line class="cls-2" x1="55.36" x2="59.8" y1="28" y2="28"/>
+  <line class="cls-2" x1="25.66" x2="28.8" y1="13.86" y2="17"/>
+  <line class="cls-2" x1="50.8" x2="53.94" y1="39" y2="42.14"/>
+  <line class="cls-2" x1="25.66" x2="28.8" y1="42.14" y2="39"/>
+  <line class="cls-2" x1="50.8" x2="53.94" y1="17" y2="13.86"/>
+  <path class="cls-3" d="M 21.483 7.012 C 24.519 7.007 27.307 8.683 28.725 11.368 C 32.995 8.871 38.366 11.933 38.393 16.878 C 38.412 20.444 35.525 23.344 31.959 23.339 L 21.483 23.367 C 15.188 23.367 11.254 16.552 14.401 11.101 C 15.862 8.571 18.562 7.012 21.483 7.012 Z" style=""/>
+  <circle class="cls-4" cx="45.89" cy="43.09" r="6.425" transform="matrix(0.269088, -0.963116, 0.963116, 0.269088, -21.904047, 49.514827)" style=""/>
+  <path class="cls-3" d="M 48.221 40.87 C 50.24 40.867 52.095 41.982 53.038 43.768 C 55.878 42.107 59.451 44.144 59.469 47.433 C 59.481 49.805 57.561 51.734 55.189 51.73 L 48.221 51.749 C 44.034 51.749 41.417 47.216 43.51 43.59 C 44.482 41.907 46.278 40.87 48.221 40.87 Z" style=""/>
+  <circle class="cls-4" cx="45.89" cy="43.09" r="4.274" transform="matrix(0.269088, -0.963116, 0.963116, 0.269088, 1.330764, 80.058155)" style=""/>
+</svg>

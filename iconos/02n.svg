@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg data-name="Layer 1" id="Layer_1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>.cls-1{fill:#efcc00;}.cls-2{fill:url(#linear-gradient);}.cls-3{fill:url(#linear-gradient-2);}</style>
+    <linearGradient gradientTransform="matrix(-0.104893, 0, 0, 0.104893, 49.277476, 43.617699)" gradientUnits="userSpaceOnUse" id="linear-gradient" x1="46.72" x2="25.63" y1="58.39" y2="31.08">
+      <stop offset="0" stop-color="#f2f2f2"/>
+      <stop offset="1" stop-color="#cfcfcf"/>
+    </linearGradient>
+    <linearGradient gradientTransform="matrix(0, -0.104893, -0.104893, 0, 58.939107, 43.945739)" gradientUnits="userSpaceOnUse" id="linear-gradient-2" x1="4.06" x2="15.68" y1="116.66" y2="134.3">
+      <stop offset="0.02" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <title/>
+  <path class="cls-1" d="M50,26.71A13.88,13.88,0,0,1,37.86,8.77.6.6,0,0,0,37,8.08,13.88,13.88,0,1,0,55.92,27a.6.6,0,0,0-.69-.89A13.91,13.91,0,0,1,50,26.71Z"/>
+  <path class="cls-2" d="M 25.959 6.208 C 27.889 6.207 29.661 7.275 30.562 8.982 C 33.282 7.391 36.702 9.341 36.719 12.491 C 36.731 14.768 34.883 16.617 32.607 16.605 L 25.944 16.623 C 21.935 16.623 19.43 12.284 21.434 8.812 C 22.365 7.201 24.084 6.208 25.944 6.208 L 25.959 6.208 Z" style=""/>
+  <circle class="cls-3" cx="46.05" cy="43.09" r="4.091" transform="matrix(0.269088, -0.963116, 0.963116, 0.269088, -21.269879, 45.271167)" style=""/>
+  <path class="cls-2" d="M 47.722 28.962 C 48.946 28.961 50.071 29.638 50.643 30.722 C 52.368 29.712 54.538 30.95 54.549 32.948 C 54.557 34.393 53.384 35.565 51.94 35.558 L 47.712 35.57 C 45.168 35.57 43.579 32.817 44.85 30.613 C 45.442 29.591 46.533 28.962 47.712 28.962 L 47.722 28.962 Z" style=""/>
+  <circle class="cls-3" cx="46.05" cy="43.09" r="2.596" transform="matrix(0.269088, -0.963116, 0.963116, 0.269088, -1.942203, 65.719219)" style=""/>
+  <circle class="cls-3" cx="46.05" cy="43.09" r="2.273" transform="matrix(0.269088, -0.963116, 0.963116, 0.269088, -17.796356, 69.255974)" style=""/>
+</svg>
